@@ -1,0 +1,8 @@
+{
+  "name": "dMarketContracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnosullivan/dMarketContracts.git",
+  "author": "John O'Sullivan <josullivan1@luc.edu>",
+  "license": "MIT"
+}
